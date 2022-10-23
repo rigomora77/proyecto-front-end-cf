@@ -11,3 +11,4 @@ Poppins 100,200,400,500,600,700,900
 
 Iconos utilizados: 
 https://ionic.io/ionicons
+https://cdnjs.com/libraries/font-awesome
